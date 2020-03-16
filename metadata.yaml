@@ -1,5 +1,8 @@
 _repo: The-Training-of-Wild-Animals_61589
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61589-h/images/cover.jpg
 creator:
   author:
     agent_name: Bostock, Frank Charles
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '1888'
     url: http://www.gutenberg.org/2009/agents/1888
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61589#The-Training-of-Wild-Animals
 gutenberg_issued: '2020-03-09'
 gutenberg_type: Text
 identifiers:
